@@ -3,4 +3,3 @@ d = int(input("Enter a number whose multiples you want to find : "))
 for n in range( 1,n + 1):
     s = d * n
     print("\nMultiple = ",s)
-1
